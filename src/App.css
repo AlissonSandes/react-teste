@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(16, 17, 29) !important;
+}
+input {
+  border-radius: 16px !important;
+  border-color: #fd700b !important;
+  border-width: 2px !important;
+  background-color: rgb(16, 17, 29) !important;
+  color: white !important;
+}
+
+input.editdadomodal {
+  border-radius: 16px !important;
+  border-color: #fd700b !important;
+  border-width: 2px !important;
+  background-color: #212521 !important;
+  color: white !important;
+}
+button.btn-primary {
+  border-radius: 16px !important;
+  background-color: #fd700b !important;
+  border-color: #fd700b !important;
+}
+button.btn-danger {
+  border-radius: 16px !important;
+}
+label {
+  color: white !important;
+}
+.toastnotification {
+  position: absolute !important;
+  display: block !important;
+  background-color: red !important;
+  width: 300px !important;
+  color: white !important;
+  top: 15px !important;
+  left: 50%;
+  text-align: center !important;
+  margin-left: -150px;
+}
+.green {
+  background-color: green !important;
+}
+.registrese {
+  margin-top: 10px;
+  display: block;
+  text-align: center !important;
+  color: white !important;
+}
